@@ -1,0 +1,17 @@
+[project]
+name = "ai-app-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel",
+    "jupyter",
+    "langchain",
+    "langchain-core",
+    "langchain-text-splitters",
+    "langchain-openai",
+    "langgraph",
+    "openai",
+    "python-dotenv",
+]
